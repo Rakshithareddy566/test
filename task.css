@@ -1,0 +1,34 @@
+body{
+	background-color:black;
+	color: #fff;
+}
+.back {
+height: 700px;
+width: 700px;
+background: url(images/books.jpg)no-repeat center fixed;
+	background-size: cover;
+	text-align: center;
+	margin-right: 0px;
+	
+}
+.back .two{
+	padding-left: 560px;
+	margin-top: 320px;
+    z-index: 2;
+	position: relative;
+	
+}
+
+
+.dho {
+	background: url("images/girl.jpg")no-repeat center center fixed;
+	background-size: cover;
+	height: 400px;
+    width: 450px;
+	margin-left: 150px;
+	margin-top: -80px;
+}
+.dho h4{
+	margin-top:40px;
+	padding-top: 280px;
+}
